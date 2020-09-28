@@ -1,8 +1,8 @@
 <h1>Hello World, I'm Mateus!</h1>
 <h2>Formação</h2>
 <ul>
- <li> 🖥️ Técnico em Informática pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> </li>
- <li> 🎓 Bacherelando em Sistemas de Informação pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a></li>
+ <li> 🖥️ Técnico em Informática pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> (2015 - 2017);</li>
+ <li> 🎓 Bacherelando em Sistemas de Informação pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> (2018 - Atual);</li>
 </ul>
 <h2>Alguns Projetos</h2>
 <ul>
