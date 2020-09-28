@@ -39,9 +39,3 @@
  <li>📈 <a href="https://github.com/mateusfilipe/leitura-escalonamento">Leitura-Escalonamento</a></li>
  <li>🌳 <a href="https://github.com/mateusfilipe/ForestFire">Forest-Fire</a></li>
 </ul>
-
-<h1>Contato</h1>
-<ul>
- <li> :mailbox: mateusfilipe557@gmail.com</li>
- <li> ☕</li>
-</ul>
