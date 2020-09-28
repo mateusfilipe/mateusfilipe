@@ -7,32 +7,6 @@
  <li> 🖥️ Técnico em Informática pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> </li>
  <li> 🎓 Bacherelando em Sistemas de Informação pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a></li>
 </ul>
-
-<h1>Eu sei...</h1>
-<table boder="0" style="border: 0">
-<tr  style="text-align: center; border: 0">
-<td  style="text-align: center; border: 0">
-<ul>
- <li> 🗒️ C++</li>
- <li> ☕ Java</li>
- <li> 🐍 Python</li>
- <li> 🐬 MySQL</li>
-</ul>
-</td  style="text-align: center; border: 0">
-<td>
-</td>
-<td>
-<ul>
- <li> 🕸️ HTML</li>
- <li> 🕶️ CSS</li>
- <li> 🍵 JavaScript</li>
- <li> 📝 LaTeX</li>
-</ul>
-
-</td>
-
-</tr>
-</table>
 <h1>Alguns Projetos</h1>
 <ul>
  <li>🍏 <a href="https://github.com/mateusfilipe/Get-The-Button">Get The Button</a></li>
