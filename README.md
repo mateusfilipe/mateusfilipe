@@ -7,8 +7,8 @@
 <h2>Alguns Projetos</h2>
 <ul>
  <li>🍏 <a href="https://github.com/mateusfilipe/Get-The-Button">Get The Button</a></li>
- <li>📈 <a href="https://github.com/mateusfilipe/leitura-escalonamento">Leitura-Escalonamento</a></li>
- <li>🌳 <a href="https://github.com/mateusfilipe/ForestFire">Forest-Fire</a></li>
+ <li>📈 <a href="https://github.com/mateusfilipe/leitura-escalonamento">Leitura Escalonamento</a></li>
+ <li>🌳 <a href="https://github.com/mateusfilipe/ForestFire">Forest Fire</a></li>
 </ul>
 
 <img width="100%" src="https://c4.wallpaperflare.com/wallpaper/19/169/269/the-elder-scrolls-v-skyrim-multiple-display-video-games-fantasy-art-wallpaper-thumb.jpg">
