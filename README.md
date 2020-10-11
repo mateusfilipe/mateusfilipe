@@ -19,10 +19,25 @@
 
 ---
 
-<img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=vue&locale=en">
+<table style="rules:none">
+<tr>
+<td>
+ 
+ <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=vue&locale=en"/>
+
+</td>
+
+<td>
+
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=vue&hide_border=true"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <img width="100%" src="https://c4.wallpaperflare.com/wallpaper/19/169/269/the-elder-scrolls-v-skyrim-multiple-display-video-games-fantasy-art-wallpaper-thumb.jpg">
 "What you learn here will last you a lifetime. Several, if you're talented." - Savos Aren
+
 
