@@ -10,6 +10,13 @@
  * 📈 <a href="https://github.com/mateusfilipe/leitura-escalonamento">Leitura Escalonamento</a></li>
  * 🌳 <a href="https://github.com/mateusfilipe/ForestFire">Forest Fire</a></li>
 
+### Contact-me
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mateusfilipe/)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />](https://www.github.com/mateusfilipe)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />](https://www.twitter.com/metausfilipe)
+
+<br/>
+
 ---
 
 [![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
