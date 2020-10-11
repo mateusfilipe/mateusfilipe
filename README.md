@@ -29,7 +29,7 @@
 
 <td>
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=vue&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=vue&hide_border=true"/>
 
 </td>
 </tr>
