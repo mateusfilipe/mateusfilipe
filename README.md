@@ -19,7 +19,7 @@
 
 ---
 
-[![Mateus's github stats](https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=vue&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=vue&locale=en">
 
 ---
 
