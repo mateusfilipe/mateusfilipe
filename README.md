@@ -1,6 +1,4 @@
 # Hello World, I'm Mateus!
-## Formação
-
  * 🖥️ Técnico em Informática pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> (2015 - 2017);
  * 🎓 Bacherelando em Sistemas de Informação pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> (2018 - Atual);
 
