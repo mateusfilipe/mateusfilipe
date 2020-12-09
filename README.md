@@ -15,13 +15,13 @@
 <tr>
 <td>
  
- <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=vue&locale=en"/>
+ <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=tokyonight&locale=en"/>
 
 </td>
 
 <td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=vue&hide_border=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
