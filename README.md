@@ -3,9 +3,8 @@
  * 🎓 Bacherelado em Sistemas de Informação pelo <a href="https://www.ifmg.edu.br/portal">IFMG</a> (2018 - Atual);
 
 ### Contact-me
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/mateusfilipe/)
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />](https://www.github.com/mateusfilipe)
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/twitter.svg" />](https://www.twitter.com/metausfilipe)
+[<img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusfilipe/)
+[<img align="left"  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/metausfilipe)
 
 <br/>
 
