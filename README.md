@@ -14,7 +14,7 @@
 <tr>
 <td>
  
- <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=tokyonight&locale=en"/>
+ <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=tokyonight&locale=en&count_private=true"/>
 
 </td>
 
