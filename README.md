@@ -10,20 +10,26 @@
 
 ---
 
+### Techonolgies
+
+[![My Skills](https://skillicons.dev/icons?i=php,postgres,git,js,html,css)](https://skillicons.dev)
+
 <table style="rules:none">
 <tr>
 <td>
  
- <img alt="Mateus's github stats" src="https://github-readme-stats.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=tokyonight&locale=en&count_private=true"/>
+ <img height='180em' alt="Mateus's github stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mateusfilipe&hide_border=true&show_icons=true&theme=tokyonight&locale=en&count_private=true"/>
 
 </td>
 
 <td>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height='180em' align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mateusfilipe&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </td>
 </tr>
 </table>
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateusfilipe&label=Profile%20views&color=000000&style=flat" alt="mateusfilipe" /> </p>
