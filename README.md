@@ -13,7 +13,7 @@
 
 ### Techonolgies
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,postgres,bootstrap,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,js,vue,postgres,bootstrap,git&theme=dark)](https://skillicons.dev)
 
 <table style="rules:none">
     <tr>
