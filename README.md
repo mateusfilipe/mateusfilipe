@@ -1,7 +1,7 @@
 # Hello World, I'm Mateus!
  * 🖥️ Técnico em Informática pelo [IFMG](https://www.ifmg.edu.br/portal) (2015 - 2017);
  * 🎓 Bacherelado em Sistemas de Informação pelo [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
- * 🎓 Pós-graduação Lato Sensu  em Análise de Dados pela [Faculdade Descomplica](https://descomplica.com.br/) (2022 - *)
+ * 🎓 Pós-graduação Lato Sensu  em Aplicativos Móveis Multiplataforma [Faculdade Descomplica](https://descomplica.com.br/) (2022 - *)
 
 ### Contact-me
 [<img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusfilipe/)
