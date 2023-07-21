@@ -1,7 +1,6 @@
 # Hello World, I'm Mateus!
  * 🖥️ Técnico em Informática pelo [IFMG](https://www.ifmg.edu.br/portal) (2015 - 2017);
  * 🎓 Bacherelado em Sistemas de Informação pelo [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
- * 🎓 Pós-graduação Lato Sensu  em Aplicativos Móveis Multiplataforma [Faculdade Descomplica](https://descomplica.com.br/) (2022 - *)
 
 ---
 
