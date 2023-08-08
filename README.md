@@ -1,4 +1,4 @@
-# Hello World, I'm Mateus!
+# Hello World, I'm Mateus! <img height='35em' alt="Mateus's github stats" src="https://i.pinimg.com/originals/0f/58/60/0f5860ab2d063aaa92d55a994d9b47e4.gif"/>
  * 🖥️ Técnico em Informática pelo [IFMG](https://www.ifmg.edu.br/portal) (2015 - 2017);
  * 🎓 Bacherelado em Sistemas de Informação pelo [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
 
