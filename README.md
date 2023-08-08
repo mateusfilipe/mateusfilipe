@@ -1,4 +1,4 @@
-# Hello World, I'm Mateus! <img height='25em' alt="Mateus's github stats" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/>
+# Hello World, I'm Mateus! <img height='25em' alt="Squirtle" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/>
  * 🖥️ Técnico em Informática pelo [IFMG](https://www.ifmg.edu.br/portal) (2015 - 2017);
  * 🎓 Bacherelado em Sistemas de Informação pelo [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
 
