@@ -1,5 +1,5 @@
 <p align="center">
-   <img width='100%' alt="My header GIF" src="https://github.com/user-attachments/assets/e86c5772-ae80-4027-b016-0bd16a196c51"/>
+   <img width='100%' alt="My header GIF" src="https://github.com/user-attachments/assets/381df565-2eac-4dcd-bd4d-bd5c51a5cd0b"/>
 </p>
 
 <!-- # Hello World, I'm Mateus! <img height='25em' alt="Squirtle" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/> -->
