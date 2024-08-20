@@ -1,4 +1,8 @@
-# Hello World, I'm Mateus! <img height='25em' alt="Squirtle" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/>
+<p align="center">
+   <img width='100%' alt="My header GIF" src="https://github.com/user-attachments/assets/c90ec1af-a868-4027-b52d-45c4b3496de5"/>
+</p>
+
+<!-- # Hello World, I'm Mateus! <img height='25em' alt="Squirtle" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/> -->
  * 🖥️ Técnico em Informática pelo [IFMG](https://www.ifmg.edu.br/portal) (2015 - 2017);
  * 🎓 Bacherelado em Sistemas de Informação pelo [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
 
@@ -18,8 +22,6 @@
         </td>
     </tr>
 </table>
-
-
 
 ### Contact-me
 [<img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mateusfilipe/)
