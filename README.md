@@ -1,6 +1,6 @@
 # Hello World, I'm Mateus! <img height='25em' alt="Squirtle" src="https://66.media.tumblr.com/tumblr_ma4ft6OXxw1rfjowdo1_500.gif"/>
 
-I'm a brazillian Software Developer currently workin with Automation Systems using JS and BPMN.
+I'm a Brazilian Software Developer currently working with automation systems for process optimization.
  * 🎓 Bachelor in Information Systems [IFMG](https://www.ifmg.edu.br/portal) (2018 - 2022);
 
 ## Techonolgies
